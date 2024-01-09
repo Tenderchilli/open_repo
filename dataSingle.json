@@ -1,5 +1,6 @@
 {
   "name": "John Doe",
+  "姓名": "李四",
   "age": 30,
   "birthday": "1991-12-31",
   "isManager": false,
