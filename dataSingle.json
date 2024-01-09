@@ -1,9 +1,9 @@
 {
-  "姓名": "李四",
+  "姓名": "Bob Dylan",
   "age": 30,
   "birthday": "1991-12-31",
   "email": "johndoe@example.com",
-  "phone": "+1 202-555-0181",
+  "phone": "+2 202-555-0181",
   "address": {
     "country": "USA",
     "state": "California"
